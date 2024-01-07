@@ -21,7 +21,7 @@ parser.add_argument('--meta', default='./dataset/RealBlur/RealBlur_J_test_list.t
 parser.add_argument('--input_dir', default='./dataset/RealBlur', type=str, help='Directory of validation images')
 parser.add_argument('--target_dir', default='./dataset/RealBlur', type=str, help='Directory of validation images')
 parser.add_argument('--output_dir', default='./results/RealBlurJ', type=str, help='Directory of validation images')
-parser.add_argument('--weights', default='./checkpoints/RealBLur_J.pth', type=str, help='Path to weights')
+parser.add_argument('--weights', default='./checkpoints/RealBlur_J.pth', type=str, help='Path to weights')
 parser.add_argument('--get_psnr', default=True, type=bool, help='PSNR')
 parser.add_argument('--gpus', default='0', type=str, help='CUDA_VISIBLE_DEVICES')
 parser.add_argument('--save_result', action='store_true', help='save resulting image')
