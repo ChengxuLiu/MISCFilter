@@ -4,7 +4,7 @@ This is the official PyTorch implementation of the paper [Motion-adaptive Separa
 ## Contents
 - [Overview](#overview)
 - [Contribution](#contribution)
-- [Requirements and dependencies](#requirements and dependencies)
+- [Requirements and dependencies](#requirements_and_dependencies)
 - [Dataset](#dataset)
 - [Models](#models)
 - [Test](#test)
