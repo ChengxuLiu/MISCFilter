@@ -14,7 +14,7 @@ This is the official PyTorch implementation of the paper [Motion-adaptive Separa
 - [Acknowledgement](#acknowledgement)
 
 ## Overview
-<img src="./fig/overview" width=100%>
+<img src="./fig/overview.jpg" width=100%>
 
 ## Contribution
 * We propose a novel real-world deblurring filtering model called the Motion-adaptive Separable Collaborative (MISC) Filter. It targets the shortcomings of existing methods that focus only on image residual reconstruction in feature space and can handle more generalized and complex motion in image space.
