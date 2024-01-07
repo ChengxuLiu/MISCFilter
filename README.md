@@ -42,7 +42,7 @@ cd ..
 
 ## Dataset
 
-### RealBLur dataset
+### RealBlur dataset
 1. Download dataset from the [RealBlur dataset](https://github.com/rimchang/RealBlur) .
 
 2. Unzip files ```dataset``` folder.
@@ -96,8 +96,8 @@ GOPRO_Large
 
 ## Models
 Pre-trained models can be downloaded from [google drive](https://drive.google.com/drive/folders/1M-Sc_u97vTQskfO6VMzPghb8LnerP8Id?usp=sharing).
-* *RealBlur_J.pth*: trained on RealBLur_J dataset.
-* *RealBlur_R.pth*: trained on RealBLur_J dataset.
+* *RealBlur_J.pth*: trained on RealBlur_J dataset.
+* *RealBlur_R.pth*: trained on RealBlur_J dataset.
 * *GoPro.pth*: trained on GoPro dataset.
 
 ## Test
