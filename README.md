@@ -1,4 +1,4 @@
-# MISCFilter
+# [CVPR 2024] MISCFilter
 This is the official PyTorch implementation of the paper [Motion-adaptive Separable Collaborative Filters for Blind Motion Deblurring](https://).
 
 ## Contents
